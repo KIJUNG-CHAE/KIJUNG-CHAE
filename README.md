@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=daiywlf5251)](https://solved.ac/daiywlf5251)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIJUNG-CHAE)](https://github.com/깃허브아이디/github-readme-stats)
 
