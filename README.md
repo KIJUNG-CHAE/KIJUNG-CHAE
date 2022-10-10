@@ -5,9 +5,7 @@
 ## CURRENT
 * PNU ( 2017.03 ~ , 휴학중 )
 * Study Spring! ( 2022.03 ~ )
-* Study Algorithm! ( 2022.03 ~ )
-* 관광데이터 공모전 백엔드 개발 ( 2022.05 ~ )
-* ZNS를 이용한 리눅스 컨테이너 I/O Isolation 기법 개발 ( 2022.04 ~ )
+* Para.Inc 서버 개발자 (2022.10.01 ~ )
 
 
 
