@@ -5,7 +5,6 @@
 ## CURRENT
 * PNU ( 2017.03 ~ , 휴학중 )
 * Study Spring! ( 2022.03 ~ )
-* Para.Inc Slash 서버 개발 (2022.10.01 ~ )
 
 
 
