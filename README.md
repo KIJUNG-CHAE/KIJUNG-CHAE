@@ -5,6 +5,8 @@
 ## CURRENT
 * PNU ( 2017.03 ~ , 휴학중 )
 * Study Spring! ( 2022.03 ~ )
+* Study React! ( 2023.01 ~ )
+* Study Scrapping! ( 2023.01 ~ )
 
 
 
