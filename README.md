@@ -4,9 +4,9 @@
 # CHAE GI JUNG 🤨
 
 * current
-  * Pusan National University ( 2017.03 ~ , Computer Sciences and Engineering Major )
+  * Pusan National University ( 2017.03 ~ 2025.02, Computer Sciences and Engineering Major )
   * Freelancer ( 2023.01 ~ )
-  * Sendy ( 2023.12 ~ , Backend Part Intern )
+  * Sendy ( 2023.12 ~ , Backend Software Engineer )
 * tech stack
   
   [![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,postgresql,aws,docker,git)](https://skillicons.dev)
